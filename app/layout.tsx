@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'WaselGo',
-  description: 'WaselGo is a delivery tracking system that allows users to track their packages in real-time. With WaselGo, you can easily monitor the status of your deliveries and receive notifications when your package is on its way or has been delivered.',
+  title: 'WasselGo',
+  description: 'WasselGo is a delivery tracking system that allows users to track their packages in real-time. With WaselGo, you can easily monitor the status of your deliveries and receive notifications when your package is on its way or has been delivered.',
   generator: 'v0.app',
   icons: {
     icon: [
